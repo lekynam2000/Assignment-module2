@@ -42,7 +42,8 @@ h1{
 }
 @media (min-width : 992px){
     .col-md-4{
-        width : 33%;
+        width : 31.3%;
+        margin:1%;
     }
     
 }
